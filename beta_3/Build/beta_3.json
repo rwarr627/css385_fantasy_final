@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Angry Dragon Simulator 2020 (4)",
+"dataUrl": "beta_3.data.unityweb",
+"asmCodeUrl": "beta_3.asm.code.unityweb",
+"asmMemoryUrl": "beta_3.asm.memory.unityweb",
+"asmFrameworkUrl": "beta_3.asm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
